@@ -1,0 +1,18 @@
+<head>
+    <title>javascript basics</title>
+</head>
+<body>
+    <h1>Hello Guys !!!</h1>
+
+    <script>
+        let a = 9;
+        let b = 2;
+        let sum = a+b;
+        let diff = a-b;
+        let multi = a*b;
+        let div = a/b;
+        console.log(`Sum is ${sum} difference is ${diff} multiplication is ${multi} division is ${div}`);
+    </script>
+    
+</body>
+</html>
